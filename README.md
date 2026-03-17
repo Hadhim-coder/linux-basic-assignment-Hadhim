@@ -48,8 +48,8 @@
 # SECTION 3 – Concept Questions
 
 1.  What is the difference between > and >> in Linux?
-       > means overwrites the file
-       >> means appent to the file
+       * > means overwrites the file
+      * >> means appent to the file
 
 2.  What is the purpose of the kill -9 command?
         To Terminate the processes
